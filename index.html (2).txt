@@ -1,0 +1,28 @@
+<section id="testride">
+
+<h2>Book Your Free Test Ride</h2>
+
+<form class="booking-form">
+
+<input type="text" placeholder="Full Name" required>
+
+<input type="tel" placeholder="Mobile Number" required>
+
+<select required>
+<option>Select Model</option>
+<option>Flio Pro V2</option>
+<option>Flio Max</option>
+<option>Flio Neo</option>
+<option>Bheem</option>
+<option>Bheem Lite</option>
+</select>
+
+<input type="date" required>
+
+<button type="submit">
+Book Test Ride
+</button>
+
+</form>
+
+</section>
