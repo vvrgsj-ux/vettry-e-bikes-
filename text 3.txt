@@ -1,0 +1,21 @@
+<section id="emi">
+
+<h2>EMI Calculator</h2>
+
+<div class="emi-box">
+
+<input type="number" id="price" placeholder="Vehicle Price">
+
+<input type="number" id="down" placeholder="Down Payment">
+
+<input type="number" id="months" placeholder="Loan Tenure (Months)">
+
+<button onclick="calculateEMI()">
+Calculate EMI
+</button>
+
+<h3 id="result"></h3>
+
+</div>
+
+</section>

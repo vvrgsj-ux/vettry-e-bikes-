@@ -1,0 +1,27 @@
+<section id="reviews">
+
+<h2>What Our Customers Say</h2>
+
+<div class="review-grid">
+
+<div class="review">
+⭐⭐⭐⭐⭐
+<p>"Excellent service and smooth buying experience. Highly recommended!"</p>
+<h4>- Arun Kumar</h4>
+</div>
+
+<div class="review">
+⭐⭐⭐⭐⭐
+<p>"Best EV showroom in Coimbatore. Staff explained everything clearly."</p>
+<h4>- Priya S.</h4>
+</div>
+
+<div class="review">
+⭐⭐⭐⭐⭐
+<p>"Very happy with my Flio Max. Great mileage and quick delivery."</p>
+<h4>- Vignesh R.</h4>
+</div>
+
+</div>
+
+</section>

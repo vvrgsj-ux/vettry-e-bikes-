@@ -1,0 +1,15 @@
+<section id="gallery">
+
+<h2>Our Gallery</h2>
+
+<div class="gallery">
+
+<img src="images/flio-pro-v2.jpg">
+<img src="images/flio-max.jpg">
+<img src="images/flio-neo.jpg">
+<img src="images/bheem.jpg">
+<img src="images/bheem-lite.jpg">
+
+</div>
+
+</section>

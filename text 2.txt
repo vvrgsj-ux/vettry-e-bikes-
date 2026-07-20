@@ -1,0 +1,16 @@
+function calculateEMI(){
+
+let price = Number(document.getElementById("price").value);
+
+let down = Number(document.getElementById("down").value);
+
+let months = Number(document.getElementById("months").value);
+
+let loan = price - down;
+
+let emi = loan / months;
+
+document.getElementById("result").innerHTML =
+"Approx EMI : ₹" + emi.toFixed(0) + " / Month";
+
+}
